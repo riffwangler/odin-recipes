@@ -1,0 +1,14 @@
+H1,h2 {
+    color:  #1e0f21;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+  }
